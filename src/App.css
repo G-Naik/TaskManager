@@ -1,0 +1,24 @@
+body{
+    background-color: #252525;
+    color:white;
+}
+.contain-div{
+    background-color: white;
+    border:1px solid black;
+    border-radius: 5px;
+}
+select{
+    border: none;
+}
+button{
+    border: none;
+}
+.orange{
+    background-color: orange;
+    border: none;
+    padding: 15px 20px;
+    color:white;
+}
+.add-task{
+    padding:15px 20px;
+}
